@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)sdfdsf ddfsdf sdfsdfsd sdf sdfsdf sd sdfsd fsdf sd fdsf sdf sdf dsfs dsf ds f
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
