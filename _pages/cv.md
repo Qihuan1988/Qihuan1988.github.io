@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical \& Computer Engineering, Rutgers University, US, 2015-2022
+* Ph.D in Electrical and Computer Engineering, Rutgers University, US, 2015-2022
 * M.S. in Electronics and Communication Engineering, Shanghai Institute of Micro-system and Information Technology, Chinese Academy of Science, China, 2011-2014
 * B.S. in Information Engineering, South China University of Technology, China, 2007-2011
 
