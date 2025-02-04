@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)sdfdsf ddfsdf sdfsdfsd sdf sdfsdf sd sdfsd fsdf sd fdsf sdf sdf dsfs dsf ds f
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical \& Computer Engineering, Rutgers University, US, 2022
+* M.S. in Electronics and Communication Engineering, Shanghai Institute of Micro-system and Information Technology, Chinese Academy of Science, China, 2011-2014
+* B.S. in Information Engineering, South China University of Technology, China, 2007-2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022-present: Assistant Professor
+  * Nanjing University of Posts and Telecommunications, Nanjing, Jiangsu, China
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2021: Teaching Assistant
+  * Rutgers University, New Brunswick, New Jersey, US
+  * Courses included: Electronic Devices (undergraduate), Digital Electronics (undergraduate), Discrete Math (undergraduate)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Internship
+  * Nokia Bell Labs, Murray Hill, New Jersey, US
+  
+* Summer 2016: Internship
+  * Futurewei Technologies, Inc. (Research Lab of Huawei), Bridgewater, New Jersey, US
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Pytorch, Matlab, C/C++
+* Tools: Microsoft Office, LaTeX
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Rutgers ECE Graduate Academic Achievement Award, 2021-2022.
+* Rutgers ECE Best TA Award, 2020 Fall.
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
