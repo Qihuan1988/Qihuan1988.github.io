@@ -23,13 +23,13 @@ repository               : "Qihuan1988/Qihuan1988.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Pei Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Assistant professor, Nanjing University of Posts and Telecommunications"
+  location         : "Nanjing"
+  employer         : "Nanjing University of Posts and Telecommunications"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : pei.peng@njupt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
