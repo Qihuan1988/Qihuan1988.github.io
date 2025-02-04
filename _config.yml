@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "Pei Peng / Personal Homepage"
+title                    : "Pei Peng - NJUPT"
 title_separator          : "-"
 name                     : &name "Pei Peng"
 description              : &description "personal description"
